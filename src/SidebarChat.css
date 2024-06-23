@@ -1,0 +1,40 @@
+.sidebarChat {
+  display: flex;
+  padding: 1.3em;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.sidebarChat__info > h2 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+.sidebarChat__info {
+  margin-left: 0.9em;
+  font-size: 0.8em;
+  flex: 1;
+  color: gray;
+}
+
+.sidebarChat__info > p {
+  color: lightslategray;
+}
+
+.sidebarChat__timestamp {
+  font-size: 1em;
+  color: gray;
+}
+
+.sidebarChat:hover {
+  background-color: #ebebeb;
+}
+
+.sidebarChat:active {
+  background-color: #ebebeb;
+}
+
+.sidebarChat.active:hover {
+  background-color: #ebebeb;
+}

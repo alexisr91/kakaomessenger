@@ -1,0 +1,28 @@
+.sidebar {
+  flex: 0.4;
+}
+
+.sidebar__header {
+  display: flex;
+  align-items: center;
+  padding: 1.3em;
+  justify-content: space-between;
+}
+
+.sidebar__headerRight > .MuiIconButton-root {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.sidebar__footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sidebar__chats {
+  flex: 1;
+  background-color: white;
+  overflow-y: auto;
+  max-height: 480px;
+  scroll-behavior: smooth;
+}
