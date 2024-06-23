@@ -36,6 +36,9 @@ I use Firebase which is a NoSQL database, it allows me to only use one database,
 ![Capture d’écran 2024-06-23 à 12 39 16](https://github.com/alexisr91/kakaomessenger/assets/160608635/b7dcc99a-531b-4aaf-b3f2-910b55dde09b)
 
 
+![Capture d’écran 2024-06-23 à 12 56 31](https://github.com/alexisr91/kakaomessenger/assets/160608635/f7e40de5-b565-430d-95de-6dbc7fdd618e)
+
+
 
 ## Features
 
