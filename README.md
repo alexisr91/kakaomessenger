@@ -87,4 +87,8 @@ Second Color |![](https://placehold.co/15x15/FFFFFF/FFFFFF)|
 
 
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
